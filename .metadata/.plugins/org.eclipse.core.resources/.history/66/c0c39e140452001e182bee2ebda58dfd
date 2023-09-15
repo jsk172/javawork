@@ -1,0 +1,13 @@
+package wrapper;
+
+public class IntegerTest {
+	public static void main(String[] args) {
+		//int num = 100;
+		Integer num1 = 100;
+		int num2 = 200;
+		int sum = num1 + num2;
+		
+		System.out.println(num1);
+		System.out.println(sum);
+	}
+}

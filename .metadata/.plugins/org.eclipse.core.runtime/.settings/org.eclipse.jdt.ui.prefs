@@ -1,0 +1,11 @@
+content_assist_lru_history=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><history maxLHS\="100" maxRHS\="10"><lhs name\="java.lang.Number"><rhs name\="java.math.BigDecimal"/></lhs><lhs name\="java.math.BigDecimal"><rhs name\="java.math.BigDecimal"/></lhs><lhs name\="section07.PokerCard"><rhs name\="section07.PokerCard"/></lhs><lhs name\="section99.LoafBread"><rhs name\="section99.Sandwich"/></lhs><lhs name\="section99.Bread"><rhs name\="section99.Sandwich"/></lhs><lhs name\="section99.Sandwich"><rhs name\="section99.Sandwich"/></lhs><lhs name\="section13.access1.MyUtil"><rhs name\="section13.access1.MyUtil"/></lhs><lhs name\="section13.access1.MyUtil$Calculator"><rhs name\="section13.access1.MyUtil$Calculator"/></lhs><lhs name\="section14.access1.NumberPrinter"><rhs name\="section14.access1.NumberPrinter"/></lhs><lhs name\="java.lang.Exception"><rhs name\="section14.access2.InputErrorException"/></lhs><lhs name\="java.lang.Throwable"><rhs name\="section14.access2.InputErrorException"/></lhs><lhs name\="section14.access2.InputErrorException"><rhs name\="section14.access2.InputErrorException"/></lhs><lhs name\="inheritance.airplane.Airplane"><rhs name\="inheritance.airplane.SuperSonicAirplane"/></lhs><lhs name\="inheritance.airplane.SuperSonicAirplane"><rhs name\="inheritance.airplane.SuperSonicAirplane"/></lhs><lhs name\="customers.Customer"><rhs name\="customers.VIPCustomer"/></lhs><lhs name\="customers.VIPCustomer"><rhs name\="customers.VIPCustomer"/></lhs></history>
+content_assist_number_of_computers=12
+content_assist_proposals_background=255,255,255
+content_assist_proposals_foreground=0,0,0
+eclipse.preferences.version=1
+markOccurrences=false
+org.eclipse.jdt.ui.formatterprofiles.version=23
+spelling_locale_initialized=true
+typefilter_migrated_2=true
+useAnnotationsPrefPage=true
+useQuickDiffPrefPage=true

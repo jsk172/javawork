@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.math.BigDecimal"/>
+    <fullyQualifiedTypeName name="section07.PokerCard"/>
+    <fullyQualifiedTypeName name="section10.access1.Car"/>
+    <fullyQualifiedTypeName name="section10.access3.Jindo"/>
+    <fullyQualifiedTypeName name="section11.access1.Car"/>
+    <fullyQualifiedTypeName name="section11.access1.Bus"/>
+    <fullyQualifiedTypeName name="section11.Polymorphism03"/>
+    <fullyQualifiedTypeName name="section11.access2.Ade"/>
+    <fullyQualifiedTypeName name="section11.access2.Drink"/>
+    <fullyQualifiedTypeName name="section11.access2.IonicDrink"/>
+    <fullyQualifiedTypeName name="section99.Sandwich"/>
+    <fullyQualifiedTypeName name="section12.access1.Game"/>
+    <fullyQualifiedTypeName name="section12.access1.SuperMario"/>
+    <fullyQualifiedTypeName name="section12.access2.PersianCat"/>
+    <fullyQualifiedTypeName name="section12.access2.Cat"/>
+    <fullyQualifiedTypeName name="section12.access2.HouseCat"/>
+    <fullyQualifiedTypeName name="section12.access2.Playable"/>
+    <fullyQualifiedTypeName name="section12.access3.Tv"/>
+    <fullyQualifiedTypeName name="section12.access3.SmartTv"/>
+    <fullyQualifiedTypeName name="section12.access3.CableTv"/>
+    <fullyQualifiedTypeName name="section12.access4.Card"/>
+    <fullyQualifiedTypeName name="section13.InnerClass01.InnerClass"/>
+    <fullyQualifiedTypeName name="section13.InnerClass02.Innerclass"/>
+    <fullyQualifiedTypeName name="section13.access1.MyUtil.HelloPrinter"/>
+    <fullyQualifiedTypeName name="section13.access1.MyUtil"/>
+    <fullyQualifiedTypeName name="section13.access1.MyUtil.Calculator"/>
+    <fullyQualifiedTypeName name="section13.InnerClass02"/>
+    <fullyQualifiedTypeName name="section13.access2.Animal"/>
+    <fullyQualifiedTypeName name="section13.access2.Bird"/>
+    <fullyQualifiedTypeName name="section14.access1.NumberPrinter"/>
+    <fullyQualifiedTypeName name="java.lang.NullPointerException"/>
+    <fullyQualifiedTypeName name="section14.access2.InputErrorException"/>
+    <fullyQualifiedTypeName name="section15.access1.Sports"/>
+    <fullyQualifiedTypeName name="inheritance.airplane.SuperSonicAirplane"/>
+    <fullyQualifiedTypeName name="protectedex.pack1.A"/>
+    <fullyQualifiedTypeName name="overriding.shop.Shop1"/>
+    <fullyQualifiedTypeName name="customers.VIPCustomer"/>
+    <fullyQualifiedTypeName name="java.nio.channels.ScatteringByteChannel"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="kr.or.iei.model.User"/>
+</qualifiedTypeNameHistroy>

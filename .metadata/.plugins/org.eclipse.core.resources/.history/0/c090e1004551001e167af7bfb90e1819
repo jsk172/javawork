@@ -1,0 +1,12 @@
+package inheritance.Q4;
+
+public class Engineer1 extends Employee{
+	private String skillset;
+	public String getSkillSet() {
+		return skillset;
+	}
+	public void setSkillSet(String skillset) {
+		this.skillset = skillset;
+	}
+
+}

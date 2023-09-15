@@ -1,0 +1,6 @@
+package overriding.shop;
+
+public class Shop1 extends HeadShop{
+	
+
+}
