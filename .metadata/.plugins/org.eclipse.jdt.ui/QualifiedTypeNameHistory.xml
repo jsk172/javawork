@@ -44,5 +44,6 @@
     <fullyQualifiedTypeName name="singleton.car.CarFactory"/>
     <fullyQualifiedTypeName name="java.util.Scanner"/>
     <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="arraylist.score.Subject"/>
     <fullyQualifiedTypeName name="java.util.ArrayList"/>
 </qualifiedTypeNameHistroy>
