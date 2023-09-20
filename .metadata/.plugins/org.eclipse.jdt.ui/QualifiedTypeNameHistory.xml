@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="java.math.BigDecimal"/>
     <fullyQualifiedTypeName name="section07.PokerCard"/>
     <fullyQualifiedTypeName name="section10.access1.Car"/>
     <fullyQualifiedTypeName name="section10.access3.Jindo"/>
@@ -30,7 +29,6 @@
     <fullyQualifiedTypeName name="section13.access2.Animal"/>
     <fullyQualifiedTypeName name="section13.access2.Bird"/>
     <fullyQualifiedTypeName name="section14.access1.NumberPrinter"/>
-    <fullyQualifiedTypeName name="java.lang.NullPointerException"/>
     <fullyQualifiedTypeName name="section14.access2.InputErrorException"/>
     <fullyQualifiedTypeName name="section15.access1.Sports"/>
     <fullyQualifiedTypeName name="inheritance.airplane.SuperSonicAirplane"/>
@@ -39,11 +37,27 @@
     <fullyQualifiedTypeName name="customers.VIPCustomer"/>
     <fullyQualifiedTypeName name="java.nio.channels.ScatteringByteChannel"/>
     <fullyQualifiedTypeName name="kr.or.iei.model.User"/>
-    <fullyQualifiedTypeName name="java.util.Calendar"/>
     <fullyQualifiedTypeName name="java.time.temporal.ChronoUnit"/>
     <fullyQualifiedTypeName name="singleton.car.CarFactory"/>
     <fullyQualifiedTypeName name="java.util.Scanner"/>
-    <fullyQualifiedTypeName name="java.lang.System"/>
     <fullyQualifiedTypeName name="arraylist.score.Subject"/>
     <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="interfaceex.scheduler.PriorityAllocation"/>
+    <fullyQualifiedTypeName name="interfaceex.sort.HeapSort"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="java.util.Calendar"/>
+    <fullyQualifiedTypeName name="abstracts.player.AdvancedLevel"/>
+    <fullyQualifiedTypeName name="interfaceex.remocon.RemoteControl"/>
+    <fullyQualifiedTypeName name="java.lang.NullPointerException"/>
+    <fullyQualifiedTypeName name="java.lang.reflect.Constructor"/>
+    <fullyQualifiedTypeName name="java.lang.reflect.Field"/>
+    <fullyQualifiedTypeName name="java.lang.reflect.Method"/>
+    <fullyQualifiedTypeName name="java.lang.ArrayIndexOutOfBoundsException"/>
+    <fullyQualifiedTypeName name="java.lang.NumberFormatException"/>
+    <fullyQualifiedTypeName name="nestedclass.A.B"/>
+    <fullyQualifiedTypeName name="nestedclass.A"/>
+    <fullyQualifiedTypeName name="nestedclass.A.C"/>
+    <fullyQualifiedTypeName name="java.lang.Runnable"/>
+    <fullyQualifiedTypeName name="nestedclass.interfaces.Button.OnClickListener"/>
+    <fullyQualifiedTypeName name="basicclass.Dog.MyDog"/>
 </qualifiedTypeNameHistroy>
