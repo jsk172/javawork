@@ -1,7 +1,0 @@
-package array2d;
-
-public class Array2dTest2 {
-	public static void main(String[] args) {
-		
-	}
-}

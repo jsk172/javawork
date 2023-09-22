@@ -1,18 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="section07.PokerCard"/>
-    <fullyQualifiedTypeName name="section10.access1.Car"/>
-    <fullyQualifiedTypeName name="section10.access3.Jindo"/>
-    <fullyQualifiedTypeName name="section11.access1.Car"/>
-    <fullyQualifiedTypeName name="section11.access1.Bus"/>
-    <fullyQualifiedTypeName name="section11.Polymorphism03"/>
-    <fullyQualifiedTypeName name="section11.access2.Ade"/>
-    <fullyQualifiedTypeName name="section11.access2.Drink"/>
-    <fullyQualifiedTypeName name="section11.access2.IonicDrink"/>
-    <fullyQualifiedTypeName name="section99.Sandwich"/>
-    <fullyQualifiedTypeName name="section12.access1.Game"/>
-    <fullyQualifiedTypeName name="section12.access1.SuperMario"/>
-    <fullyQualifiedTypeName name="section12.access2.PersianCat"/>
     <fullyQualifiedTypeName name="section12.access2.Cat"/>
     <fullyQualifiedTypeName name="section12.access2.HouseCat"/>
     <fullyQualifiedTypeName name="section12.access2.Playable"/>
@@ -39,9 +26,7 @@
     <fullyQualifiedTypeName name="kr.or.iei.model.User"/>
     <fullyQualifiedTypeName name="java.time.temporal.ChronoUnit"/>
     <fullyQualifiedTypeName name="singleton.car.CarFactory"/>
-    <fullyQualifiedTypeName name="java.util.Scanner"/>
     <fullyQualifiedTypeName name="arraylist.score.Subject"/>
-    <fullyQualifiedTypeName name="java.util.ArrayList"/>
     <fullyQualifiedTypeName name="interfaceex.scheduler.PriorityAllocation"/>
     <fullyQualifiedTypeName name="interfaceex.sort.HeapSort"/>
     <fullyQualifiedTypeName name="java.lang.System"/>
@@ -58,6 +43,21 @@
     <fullyQualifiedTypeName name="nestedclass.A"/>
     <fullyQualifiedTypeName name="nestedclass.A.C"/>
     <fullyQualifiedTypeName name="java.lang.Runnable"/>
-    <fullyQualifiedTypeName name="nestedclass.interfaces.Button.OnClickListener"/>
     <fullyQualifiedTypeName name="basicclass.Dog.MyDog"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="nestedclass.student.Student.Score"/>
+    <fullyQualifiedTypeName name="nestedclass.interfaces.Button.OnClickListener"/>
+    <fullyQualifiedTypeName name="collection.list.ArrayListTest"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="java.util.Vector"/>
+    <fullyQualifiedTypeName name="java.util.Set"/>
+    <fullyQualifiedTypeName name="java.util.HashSet"/>
+    <fullyQualifiedTypeName name="java.util.Map"/>
+    <fullyQualifiedTypeName name="java.util.HashMap"/>
+    <fullyQualifiedTypeName name="funcinterface.MyFunction1"/>
+    <fullyQualifiedTypeName name="java.util.Iterator"/>
+    <fullyQualifiedTypeName name="java.util.Collections"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="java.util.Arrays"/>
+    <fullyQualifiedTypeName name="java.util.stream.Stream"/>
 </qualifiedTypeNameHistroy>

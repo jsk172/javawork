@@ -1,0 +1,28 @@
+package collection.member;
+
+public class MemberHashMapTest {
+	public static void main(String[] args) {
+		
+		MemberHashMap memberMap = new MemberHashMap();
+		
+		//회원 추가
+		memberMap.addMember(new Member(1001, "이순신"));
+		memberMap.addMember(new Member(1002, "양만춘"));
+		memberMap.addMember(new Member(1003, "을지문덕"));
+		// key는 중복 불가, 값은 변경 됨.
+		memberMap.addMember(new Member(1002, "우영우")); 
+		
+		System.out.println("총 객체 수 : " + memberMap.getsize());
+		
+		//회원 삭제
+		memberMap.removeMember(1003);
+		memberMap.removeMember(1004);
+		
+		System.out.println("총 객체 수 : " + memberMap.getsize());
+		
+		
+		//회원 목록
+		memberMap.showAllMember();
+		
+	}
+}
