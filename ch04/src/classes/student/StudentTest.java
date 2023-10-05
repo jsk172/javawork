@@ -18,7 +18,7 @@ public class StudentTest {
 		System.out.println("학년 : " + student1.grade);
 		*/
 		
-		System.out.println("==================");
+		System.out.println("==============================");
 		
 		Student student2 = new Student();
 		student2.name = "김지성";

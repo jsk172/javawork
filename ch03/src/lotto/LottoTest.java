@@ -9,6 +9,7 @@ public class LottoTest {
 		 */
 		int[] lotto = new int[6];
 		
+		//0번 인덱스에 랜덤번호 하나 출력.
 		lotto[0] = (int)(Math.random()*45 +1);
 		System.out.println(lotto[0]);
 		

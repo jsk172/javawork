@@ -1,26 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="section12.access2.Cat"/>
-    <fullyQualifiedTypeName name="section12.access2.HouseCat"/>
-    <fullyQualifiedTypeName name="section12.access2.Playable"/>
-    <fullyQualifiedTypeName name="section12.access3.Tv"/>
-    <fullyQualifiedTypeName name="section12.access3.SmartTv"/>
-    <fullyQualifiedTypeName name="section12.access3.CableTv"/>
-    <fullyQualifiedTypeName name="section12.access4.Card"/>
-    <fullyQualifiedTypeName name="section13.InnerClass01.InnerClass"/>
-    <fullyQualifiedTypeName name="section13.InnerClass02.Innerclass"/>
-    <fullyQualifiedTypeName name="section13.access1.MyUtil.HelloPrinter"/>
-    <fullyQualifiedTypeName name="section13.access1.MyUtil"/>
-    <fullyQualifiedTypeName name="section13.access1.MyUtil.Calculator"/>
-    <fullyQualifiedTypeName name="section13.InnerClass02"/>
-    <fullyQualifiedTypeName name="section13.access2.Animal"/>
-    <fullyQualifiedTypeName name="section13.access2.Bird"/>
-    <fullyQualifiedTypeName name="section14.access1.NumberPrinter"/>
-    <fullyQualifiedTypeName name="section14.access2.InputErrorException"/>
-    <fullyQualifiedTypeName name="section15.access1.Sports"/>
-    <fullyQualifiedTypeName name="inheritance.airplane.SuperSonicAirplane"/>
-    <fullyQualifiedTypeName name="protectedex.pack1.A"/>
-    <fullyQualifiedTypeName name="overriding.shop.Shop1"/>
     <fullyQualifiedTypeName name="customers.VIPCustomer"/>
     <fullyQualifiedTypeName name="java.nio.channels.ScatteringByteChannel"/>
     <fullyQualifiedTypeName name="kr.or.iei.model.User"/>
@@ -43,7 +22,6 @@
     <fullyQualifiedTypeName name="nestedclass.A.C"/>
     <fullyQualifiedTypeName name="java.lang.Runnable"/>
     <fullyQualifiedTypeName name="basicclass.Dog.MyDog"/>
-    <fullyQualifiedTypeName name="java.util.Scanner"/>
     <fullyQualifiedTypeName name="nestedclass.student.Student.Score"/>
     <fullyQualifiedTypeName name="nestedclass.interfaces.Button.OnClickListener"/>
     <fullyQualifiedTypeName name="collection.list.ArrayListTest"/>
@@ -57,7 +35,29 @@
     <fullyQualifiedTypeName name="java.util.Iterator"/>
     <fullyQualifiedTypeName name="java.util.Collections"/>
     <fullyQualifiedTypeName name="java.util.List"/>
-    <fullyQualifiedTypeName name="java.util.Arrays"/>
     <fullyQualifiedTypeName name="java.util.stream.Stream"/>
+    <fullyQualifiedTypeName name="java.lang.FunctionalInterface"/>
+    <fullyQualifiedTypeName name="threads.synchronize.User2Thread"/>
+    <fullyQualifiedTypeName name="java.io.OutputStream"/>
+    <fullyQualifiedTypeName name="java.io.InputStream"/>
+    <fullyQualifiedTypeName name="java.io.FileInputStream"/>
+    <fullyQualifiedTypeName name="java.io.FileOutputStream"/>
+    <fullyQualifiedTypeName name="java.awt.Toolkit"/>
+    <fullyQualifiedTypeName name="java.lang.InterruptedException"/>
+    <fullyQualifiedTypeName name="java.lang.Thread"/>
+    <fullyQualifiedTypeName name="banking.arraylist.BankArrayList"/>
+    <fullyQualifiedTypeName name="java.io.Serializable"/>
+    <fullyQualifiedTypeName name="java.io.IOException"/>
+    <fullyQualifiedTypeName name="java.io.FileReader"/>
+    <fullyQualifiedTypeName name="java.lang.Math"/>
+    <fullyQualifiedTypeName name="java.net.InetAddress"/>
+    <fullyQualifiedTypeName name="java.net.ServerSocket"/>
+    <fullyQualifiedTypeName name="java.net.Socket"/>
+    <fullyQualifiedTypeName name="java.util.regex.Pattern"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
     <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="java.net.InetSocketAddress"/>
+    <fullyQualifiedTypeName name="java.io.DataOutputStream"/>
+    <fullyQualifiedTypeName name="java.io.DataInputStream"/>
+    <fullyQualifiedTypeName name="java.util.Arrays"/>
 </qualifiedTypeNameHistroy>
