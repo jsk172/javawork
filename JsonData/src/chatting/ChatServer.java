@@ -94,9 +94,14 @@ public class ChatServer {
 		Collection<SocketClient> socketClient = chatRoom.values();
 		for(SocketClient sc : socketClient) {
 //			sc.send(json); //문자열 보내기
+			/*
 			if(sc != sender) {
 				sc.send(json);
+			}*/
+			if(sc == sender) {
+				continue;
 			}
+			sc.send(json);
 		}
 	}
 	
