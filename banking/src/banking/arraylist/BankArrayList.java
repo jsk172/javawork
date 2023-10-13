@@ -5,7 +5,8 @@ import java.util.List;
 import java.util.Scanner;
 import java.util.regex.Pattern;
 
-import banking.array.Account;
+import domain.Account;
+
 
 public class BankArrayList {
 	//통장 계좌를 저장할 자료 구조의 객체 생성
@@ -69,16 +70,24 @@ public class BankArrayList {
 				if(findAccount(ano) != null) {//중복계좌가 있는경우
 					System.out.println("중복 계좌입니다. 다시 입력해 주세요: ");
 				}else { //중복계좌가 없으면
-					System.out.print("계좌주 : ");
-					String owner = scanner.nextLine();
-
-					System.out.print("초기 입금액 : ");
-					int balance = Integer.parseInt(scanner.nextLine());
-
-					//입력받은 내용을 매개변수로 게좌 생성함
-					Account newAccount = new Account(ano, owner, balance);
-					accountList.add(newAccount); //ArrayList에 저장
-					System.out.println("계좌가 생성되었습니다.");
+					while(true){
+						System.out.print("계좌주 : ");
+						String owner = scanner.nextLine();
+						
+						regExp = "[a-zA-Z가-힣]+"; //영어와 한글만 입력가능 +는 여러글자 쓸수있게 해줌 +가 없으면 한글자만 입력
+						result = Pattern.matches(regExp, owner);
+						if(result) {
+							System.out.print("초기 입금액 : ");
+							int balance = Integer.parseInt(scanner.nextLine());
+							//입력받은 내용을 매개변수로 게좌 생성함
+							Account newAccount = new Account(ano, owner, balance);
+							accountList.add(newAccount); //ArrayList에 저장
+							System.out.println("계좌가 생성되었습니다.");
+							break;
+						}else {
+							System.out.println("계좌주는 한글과 영문만 입력 가능합니다.");
+						}
+					}//내부 while
 					break;
 				}
 			}else {
