@@ -6,8 +6,13 @@
 		<item key="wholeword" value="false"/>
 		<item key="incremental" value="false"/>
 		<item key="isRegEx" value="false"/>
-		<item key="selection" value="public"/>
+		<item key="selection" value="숫자"/>
 		<list key="findhistory">
+			<item value="숫자"/>
+			<item value="계좌"/>
+			<item value="conn"/>
+			<item value="올바른"/>
+			<item value="올바른 숫자"/>
 			<item value="private"/>
 			<item value="equals"/>
 			<item value="pu"/>
